@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS AI — Agent Automatisations",
+  "description": "Plateforme d'orchestration intelligente de workflows, déclencheurs, exécutions automatisées et validation sécurisée.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
